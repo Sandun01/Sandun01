@@ -1,7 +1,5 @@
 ### Hi there I am Sandun Lakshitha 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Trainee FullStack Developer
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Problem Solving and Software Projcect Mangement/Developemt
