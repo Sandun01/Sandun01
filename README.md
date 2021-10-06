@@ -1,4 +1,4 @@
-### Hi there I am Sandun Lakshitha 👋
+### Hi there I am Sandun👋
 
 - 🔭 I’m currently working on ... Trainee FullStack Developer
 - 🌱 I’m currently learning ... Everything
