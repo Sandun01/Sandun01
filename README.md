@@ -5,13 +5,13 @@
 - 👯 I’m looking to collaborate on ... Problem Solving and Software Projcect Mangement/Developemt
 - 💬 Ask me about ... Anything in my git.
 - 📫 How to reach me: 
-- LinkedIn: https://www.linkedin.com/in/sandun-lakshitha-6b7074175/
-- Twitter: https://twitter.com/sandun_l_
+- LinkedIn: 
+- Twitter: 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/sandun_l_" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/sandun-lakshitha-6b7074175/" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/_sandun_lakshitha_/" />][instagram]
 
 <br />
 
