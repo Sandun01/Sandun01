@@ -1,6 +1,6 @@
 ### Hi there I am Sandun👋
 
-- 🔭 I’m currently working on ... Trainee FullStack Developer
+- 🔭 I’m currently working as a ... Trainee FullStack Developer
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Problem Solving and Software Projcect Mangement/Developemt
 - 💬 Ask me about ... Anything in my git.
