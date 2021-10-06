@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Problem Solving and Software Projcect Mangement/Developemt
 - 💬 Ask me about ... Anything in my git.
-- 📫 How to reach me: 
 
 
 ### Connect with me:
