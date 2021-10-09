@@ -35,7 +35,7 @@
 <br/>
 
 <div align="right"">
-    <img align="center" alt="status" src="https://komarev.com/ghpvc/?username=Sandun01&color=lightgrey" />
+  
 </div>
 
 <br/>
