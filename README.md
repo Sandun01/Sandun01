@@ -7,10 +7,8 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="50px" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-Logo-2010.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://wallpaperaccess.com/full/1112311.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="50px" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-Logo-2010.png" />][twitter]
 
 <br />
 
