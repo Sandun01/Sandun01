@@ -5,7 +5,7 @@
 
 <!-- ### Hi there I am Sandun👋 -->
 
-### Who am I,
+### About Me,
 - 🔭 I’m currently working as a ... Trainee FullStack Developer
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Problem Solving and Software Projcect Mangement/Developemt
