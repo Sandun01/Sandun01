@@ -28,11 +28,6 @@
   
 <br/>
 <br/>
- 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sandun01" />
-  
-<br/>
-<br/>
   
   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Sandun01" /></p>
   
