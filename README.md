@@ -18,11 +18,12 @@
 [linkedin]: https://www.linkedin.com/in/sandun-lakshitha-6b7074175/
 
 <br />
-<br />
+
+### Overview
 
 <br/>
   <div align="center">
-    <img align="left" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
+    <img align="center" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
   </div>
 <br/>
 
