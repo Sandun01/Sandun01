@@ -19,7 +19,9 @@
 
 <br />
 <br />
-<img align="left" alt="status" width="100%"  src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
+<div>
+  <img align="left" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
+</div>
 
 <br />
 <br />
@@ -29,4 +31,7 @@
 
 <br />
 <br />
-<img align="left" alt="contributions and other data" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
+<div>
+  <img align="left" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
+</div>
+
