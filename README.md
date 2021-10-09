@@ -20,7 +20,7 @@
 <br />
 <br />
 
-<div style="display:flex;" >
+<div style="display:'flex';" >
   <div>
     <img align="left" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
   </div>
