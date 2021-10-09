@@ -21,9 +21,9 @@
 
 ### Overview
 
-  <div align="center" style="display:flex;">
-    <img align="left" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
-    <img align="left" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
+  <div align="center"">
+    <img align="center" width="100%" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
+    <img align="center" width="100%" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
   </div>
   
 <br/>
