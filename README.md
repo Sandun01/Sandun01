@@ -11,13 +11,13 @@
 [<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-<br />
+<br/>
 
 [twitter]: https://twitter.com/sandun_l_
 [instagram]: https://www.instagram.com/_sandun_lakshitha_/
 [linkedin]: https://www.linkedin.com/in/sandun-lakshitha-6b7074175/
 
-<br />
+<br/>
 
 ### Overview
 
@@ -27,7 +27,17 @@
   </div>
   
 <br/>
-<br />
+<br/>
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sandun01" />
+  
+<br/>
+<br/>
+  
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Sandun01" /></p>
+  
+<br/>
+<br/>
 
 
 
