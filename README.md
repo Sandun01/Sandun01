@@ -1,3 +1,8 @@
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I+am+Sandun&center=true&font=consolas&color=000000">
+</h1>
+
 ### Hi there I am Sandun👋
 
 - 🔭 I’m currently working as a ... Trainee FullStack Developer
