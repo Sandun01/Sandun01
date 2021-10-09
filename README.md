@@ -8,13 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="50px" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-Logo-2010.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://wallpaperaccess.com/full/1112311.png" />][instagram]
 
 <br />
-<br />
-
 
 [twitter]: https://twitter.com/sandun_l_
 [instagram]: https://www.instagram.com/_sandun_lakshitha_/
