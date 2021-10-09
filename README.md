@@ -7,8 +7,9 @@
 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://wallpaperaccess.com/full/1112311.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Twitter" width="50px" src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-Logo-2010.png" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
