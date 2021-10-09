@@ -1,7 +1,7 @@
 
-<h1 align="left">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+I+am+Sandun+Lakshitha&font=consolas&color=000000">
-</h1>
+</p>
 
 <!-- ### Hi there I am Sandun👋 -->
 
