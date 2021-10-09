@@ -20,15 +20,15 @@
 <br />
 <br />
 
-<div style={{ width: '100%' }}>
+<div style="display:flex;" >
   <div>
     <img align="left" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
   </div>
   <div>
-    <img align="left" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun01" />
+    <img align="left" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
   </div>
   <div>
-    <img align="left" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
+    <img align="left" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun01" />
   </div>
 </div>
 
