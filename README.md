@@ -23,7 +23,9 @@
 
 <br />
 <br />
-<img align="left" alt="most used languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun01" />
+<div>
+  <img align="left" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun01" />
+</div>
 
 <br />
 <br />
