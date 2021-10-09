@@ -24,6 +24,8 @@
 <br/>
   <div align="center">
     <img align="left" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
+    <br/>
+    <br/>
     <img align="left" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
   </div>
   <div align="center">
@@ -31,7 +33,6 @@
   </div>
   
 <br/>
-
 <br />
 
 
