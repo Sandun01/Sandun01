@@ -23,8 +23,8 @@
 
   <div align="center"">
     <img align="center" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Sandun01&bg_color=ffffff&&color=000000&line=000000&point=004095" />
     <img align="center" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Sandun01&bg_color=ffffff&&color=000000&line=000000&point=004095" />
   </div>
 
 <br/>
