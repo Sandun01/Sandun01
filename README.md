@@ -23,11 +23,16 @@
 
 <br/>
   <div align="center">
-    <img align="left" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
-    <br/>
-    <br/>
+    <img align="center" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
+    </div>
+    <br/><br/>
+
+  <div align="center">
     <img align="left" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
   </div>
+  
+  <br/><br/>
+
   <div align="center">
     <img align="center" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandun01" />
   </div>
