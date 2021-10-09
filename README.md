@@ -1,6 +1,6 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+I+am+Sandun+Lakshitha&center=false&font=consolas&color=000000">
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+I+am+Sandun+Lakshitha&font=consolas&color=000000">
 </h1>
 
 <!-- ### Hi there I am Sandun👋 -->
