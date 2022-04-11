@@ -34,6 +34,8 @@
 <br/>
 <br/>
 
+<a href="https://github.com/Sandun01?tab=followers"><img src="https://img.shields.io/github/followers/Sandun01?label=Followers&style=social" alt="GitHub Badge"></a>
+  
 <div align="right"">
   
 </div>
