@@ -34,6 +34,9 @@
 <br/>
 <br/>
 
+<a href="https://github.com/Sandun01/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sandun01">
+</a>
 <a href="https://github.com/Sandun01?tab=followers"><img src="https://img.shields.io/github/followers/Sandun01?label=Followers&style=social" alt="GitHub Badge"></a>
   
 <div align="right"">
