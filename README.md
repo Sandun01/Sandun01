@@ -6,7 +6,7 @@
 <!-- ### Hi there I am Sandun👋 -->
 
 ### Myself,
-- 🔭 I’m currently working as a ... Researcher(Undergraduate Student)
+- 🔭 I’m currently working as a ... Researcher
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Problem Solving and Software Projcect Mangement/Developemt
 - 💬 Ask me about ... Anything in my git.
