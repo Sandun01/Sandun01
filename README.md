@@ -1,5 +1,5 @@
 
-<p align="left" background="white">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+I+am+Sandun+Lakshitha&font=consolas&color=000000">
 </p>
 
