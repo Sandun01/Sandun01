@@ -1,47 +1,44 @@
+# Hi there 👋 I'm Sandun Lakshitha
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+I+am+Sandun+Lakshitha&font=consolas&color=000000">
-</p>
+### 🚀 About Me
+- 🔭 Currently working as a **Software Engineer / Researcher**
+- 🌱 Continuously learning **cloud, distributed systems, and modern web technologies**
+- 🤝 Open to collaborate on **software projects, system design, and problem solving**
+- 💬 Ask me about anything related to my repositories
 
-<!-- ### Hi there I am Sandun👋 -->
+---
 
-### Myself,
-- 🔭 I’m currently working as a ... Researcher
-- 🌱 I’m currently learning ... Everything
-- 👯 I’m looking to collaborate on ... Problem Solving and Software Projcect Mangement/Developemt
-- 💬 Ask me about ... Anything in my git.
+### 🌐 Connect with Me
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandun_l_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sandun_lakshitha_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandun-lakshitha-6b7074175/)
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+---
 
-[twitter]: https://twitter.com/sandun_l_
-[instagram]: https://www.instagram.com/_sandun_lakshitha_/
-[linkedin]: https://www.linkedin.com/in/sandun-lakshitha-6b7074175/
+### 📊 GitHub Overview
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sandun01&show_icons=true&hide_border=true" />
 <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01&hide_border=true" />
 
-### Overview
-
-  <div align="center"">
-    <img align="center" alt="status" src="https://github-readme-stats.vercel.app/api?username=Sandun01" />
-    <img align="center" alt="contributions and other data" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandun01" />
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Sandun01&bg_color=ffffff&&color=000000&line=000000&point=004095" />
-  </div>
-
-<br/>
-<br/>
-
-<a href="https://github.com/Sandun01/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sandun01">
-</a>
-<a href="https://github.com/Sandun01?tab=followers"><img src="https://img.shields.io/github/followers/Sandun01?label=Followers&style=social" alt="GitHub Badge"></a>
-  
-<div align="right"">
-  
 </div>
 
-<br/>
-<br/>
+---
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sandun01)
+
+![Followers](https://img.shields.io/github/followers/Sandun01?label=Followers&style=social)
+
+---
+
+### 🧩 Current Focus Areas
+- Cloud & AWS
+- Backend Engineering
+- System Design
+- Kubernetes & Containers
+- Scalable Application Architecture
