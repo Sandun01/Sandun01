@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sandun Lakshitha
+# Hi there 👋 I'm Sandun
 
 ### 🚀 About Me
 - 🔭 Currently working as a **Software Engineer / Researcher**
